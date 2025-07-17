@@ -76,8 +76,8 @@ I'm actively seeking full-time or internship roles in:
 
 ## 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranayprasanth/)
-📧 Email: [pranayprasanth2002@email.com](mailto:pranayprasanth2002@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranayprasanth/)  
+📧 [pranayprasanth2002@email.com](mailto:pranayprasanth2002@email.com)
 
 
 
