@@ -14,14 +14,18 @@ I recently completed the **Google Advanced Data Analytics Certificate**, where I
 
 ---
 
-## 🧠 Core Skills
+🧠 Core Skills
+Programming & Data Analysis: Python (Pandas, NumPy, scikit-learn, Seaborn, Matplotlib, XGBoost), SQL, Excel 
 
-- **Programming & Data Analysis**: Python (Pandas, NumPy, scikit-learn, Seaborn, matplotlib, xgboost), SQL, Excel  
-- **Data Visualization**: Tableau, Matplotlib, Seaborn, Power BI  
-- **Statistical & Financial Analysis**: Regression, Forecasting, Time Series (ARIMA, GARCH), Portfolio Optimization  
-- **Tools & Frameworks**: Jupyter, Google Colab, VSCode, Pycharm,, SQLite, GitHub  
-- **Soft Skills**: Communication, Analytical Thinking, Project Management, Team Collaboration  
+Data Visualization & BI Tools: Tableau, Power BI, Matplotlib, Seaborn
 
+Statistical & Analytical Techniques: Linear & Logistic Regression, Forecasting, Time Series Analysis (ARIMA, GARCH), Hypothesis Testing, Data Cleaning & Wrangling
+
+Database & Querying: SQL (MySQL, SQLite), Data Extraction & Transformation
+
+Development Tools & Environments: Jupyter Notebook, Google Colab, VSCode, PyCharm, Git/GitHub
+
+Soft Skills: Communication, Analytical Thinking, Problem Solving, Team Collaboration, Project Management
 ---
 
 ## 🧪 Notable Projects
@@ -47,6 +51,15 @@ You can find all my Google Advanced Data Analytics projects in this repository:
 - 📂 Organized for easy exploration and learning.
 
 [Explore the projects here](https://github.com/PranayPrasanth/100DaysOfCode-DataScience-Projects)
+
+---
+
+### 📈 JPMorgan Chase Quantitative Research Simulation  
+**Tools**: Python, Jupyter Notebook, NumPy, Data Analysis  
+Completed real-world tasks in quantitative research including asset pricing, credit risk modelling, and statistical analysis.  
+✅ Built pricing models and evaluated credit metrics using FICO scores and simulated market data.  
+📂 [View Project]([https://github.com/PranayPrasanth/JPMorgan-Quantitative-Research-Project](https://github.com/PranayPrasanth/JPMorgan_QR_Sim))
+
 
 
 
