@@ -2,7 +2,7 @@
 
 🎓 Master’s in Business Analysis and Finance  
 ✅ Google Advanced Data Analytics Certified  
-📍 Based in the UK | Open to opportunities in 🇮🇳 India & 🇦🇪 Dubai  
+📍 Based in the UK 
 
 ---
 
@@ -71,7 +71,6 @@ I'm actively seeking full-time or internship roles in:
 - 🧠 **FinTech**
 - 🏦 **Financial/Data Science**
 
-Looking to start in **India (late 2025/early 2026)** or **Dubai (from February 2026)**. My mission is to bring **data-driven insights** to complex financial problems and make meaningful business impact.
 
 ---
 
