@@ -50,7 +50,6 @@ You can find all my Google Advanced Data Analytics projects in this repository:
 
 
 
-## 🏅 Certifications
 
 ## 🏅 Certifications
 
