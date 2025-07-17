@@ -52,11 +52,14 @@ You can find all my Google Advanced Data Analytics projects in this repository:
 
 ## 🏅 Certifications
 
-- ✅ [![Google ADA](https://img.shields.io/badge/Google-Advanced_Data_Analytics-blue?style=flat&logo=google&logoColor=white)](https://www.coursera.org/account/accomplishments/professional-cert/Y61KHAKGCI7W)  
-- ✅ [![CS50 Python](https://img.shields.io/badge/CS50-Python-red?style=flat&logo=python&logoColor=white)](https://certificates.cs50.io/7e337df6-e389-404c-875a-aae1aab68caa.pdf?size=letter)  
-- ✅ [![CS50 SQL](https://img.shields.io/badge/CS50-SQL-orange?style=flat&logo=sqlite&logoColor=white)](https://certificates.cs50.io/2cc7b683-76f5-4398-bb78-843f624667ab.pdf?size=letter)  
-- ✅ [![JPMorgan Chase](https://img.shields.io/badge/JPMorgan-Chase-blue?style=flat&logo=jpmorgan&logoColor=white)](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Sj7temL583QAYpHXD/bWqaecPDbYAwSDqJy_Sj7temL583QAYpHXD_NLfCuhaKexjXy7xaq_1739396883234_completion_certificate.pdf)  
-- ✅ [![Financial Markets](https://img.shields.io/badge/Financial_Markets-Coursera-yellow?style=flat&logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/GBPSNNCGYW7L)
+## 🏅 Certifications
+
+- ✅ Google Advanced Data Analytics Certificate — [Certificate Link](https://www.coursera.org/account/accomplishments/professional-cert/Y61KHAKGCI7W)  
+- ✅ CS50’s Introduction to Programming with Python Certificate — [Certificate Link](https://certificates.cs50.io/7e337df6-e389-404c-875a-aae1aab68caa.pdf?size=letter)  
+- ✅ CS50’s Introduction to Databases with SQL Certificate — [Certificate Link](https://certificates.cs50.io/2cc7b683-76f5-4398-bb78-843f624667ab.pdf?size=letter)  
+- ✅ JPMorgan Chase Quantitative Research Virtual Experience — [Certificate Link](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Sj7temL583QAYpHXD/bWqaecPDbYAwSDqJy_Sj7temL583QAYpHXD_NLfCuhaKexjXy7xaq_1739396883234_completion_certificate.pdf)  
+- ✅ Financial Markets Certificate — [Certificate Link](https://www.coursera.org/account/accomplishments/verify/GBPSNNCGYW7L)
+
 
 
 ---
