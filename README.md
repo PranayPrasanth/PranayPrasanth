@@ -30,7 +30,7 @@ I recently completed the **Google Advanced Data Analytics Certificate**, where I
 **Tools**: Python, Pandas,numpy, Scikit-learn,matplotlib, seaborn, Jupyter Notebook 
 Built a predictive model to identify employees likely to leave using classification algorithms.  
 ✅ Visualized trends in attrition by department, satisfaction level, and workload.  
-📂 [View Project]([https://github.com/yourrepo/hr-attrition](https://github.com/PranayPrasanth/HR-Attrition-Prediction))
+📂 [View Project](https://github.com/PranayPrasanth/HR-Attrition-Prediction)
 
 ---
 
