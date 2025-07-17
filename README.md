@@ -1,16 +1,83 @@
-## Hi there 👋
+# 👋 Hello! I'm Pranay Prasanth
 
-<!--
-**PranayPrasanth/PranayPrasanth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master’s in Business Analysis and Finance  
+✅ Google Advanced Data Analytics Certified  
+📍 Based in the UK | Open to opportunities in 🇮🇳 India & 🇦🇪 Dubai  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I'm a detail-oriented and results-driven graduate student with a passion for **data analytics, finance**, and **technology**. My journey blends technical skills in Python, SQL, and machine learning with a deep understanding of financial concepts.
+
+I recently completed the **Google Advanced Data Analytics Certificate**, where I tackled projects involving regression models, hypothesis testing, predictive analytics, and data storytelling using Python and Tableu.
+
+---
+
+## 🧠 Core Skills
+
+- **Programming & Data Analysis**: Python (Pandas, NumPy, scikit-learn, Seaborn, matplotlib, xgboost), SQL, Excel  
+- **Data Visualization**: Tableau, Matplotlib, Seaborn, Power BI  
+- **Statistical & Financial Analysis**: Regression, Forecasting, Time Series (ARIMA, GARCH), Portfolio Optimization  
+- **Tools & Frameworks**: Jupyter, Google Colab, VSCode, Pycharm,, SQLite, GitHub  
+- **Soft Skills**: Communication, Analytical Thinking, Project Management, Team Collaboration  
+
+---
+
+## 🧪 Notable Projects
+
+### 🔍 HR Attrition Prediction  
+**Tools**: Python, Pandas,numpy, Scikit-learn,matplotlib, seaborn, Jupyter Notebook 
+Built a predictive model to identify employees likely to leave using classification algorithms.  
+✅ Visualized trends in attrition by department, satisfaction level, and workload.  
+📂 [View Project]([https://github.com/yourrepo/hr-attrition](https://github.com/PranayPrasanth/HR-Attrition-Prediction))
+
+---
+
+## Google Advanced Data Analytics Projects
+
+You can find all my Google Advanced Data Analytics projects in this repository:  
+👉 [Google ADA Projects](https://github.com/PranayPrasanth/Google_Analytics_Projects)
+
+---
+
+# 100 Days of Code – Data Science Projects
+
+- ✅ Completed daily projects focused on **data cleaning**, **data analysis**, and **visualization** using Python.  
+- 📂 Organized for easy exploration and learning.
+
+[Explore the projects here](https://github.com/PranayPrasanth/100DaysOfCode-DataScience-Projects)
+
+
+
+## 🏅 Certifications
+
+- ✅ [![Google ADA](https://img.shields.io/badge/Google-Advanced_Data_Analytics-blue?style=flat&logo=google&logoColor=white)](https://www.coursera.org/account/accomplishments/professional-cert/Y61KHAKGCI7W)  
+- ✅ [![CS50 Python](https://img.shields.io/badge/CS50-Python-red?style=flat&logo=python&logoColor=white)](https://certificates.cs50.io/7e337df6-e389-404c-875a-aae1aab68caa.pdf?size=letter)  
+- ✅ [![CS50 SQL](https://img.shields.io/badge/CS50-SQL-orange?style=flat&logo=sqlite&logoColor=white)](https://certificates.cs50.io/2cc7b683-76f5-4398-bb78-843f624667ab.pdf?size=letter)  
+- ✅ [![JPMorgan Chase](https://img.shields.io/badge/JPMorgan-Chase-blue?style=flat&logo=jpmorgan&logoColor=white)](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Sj7temL583QAYpHXD/bWqaecPDbYAwSDqJy_Sj7temL583QAYpHXD_NLfCuhaKexjXy7xaq_1739396883234_completion_certificate.pdf)  
+- ✅ [![Financial Markets](https://img.shields.io/badge/Financial_Markets-Coursera-yellow?style=flat&logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/GBPSNNCGYW7L)
+
+
+---
+
+## 💼 Career Goals
+
+I'm actively seeking full-time or internship roles in:
+
+- 📊 **Data Analytics**
+- 🧠 **FinTech**
+- 🏦 **Financial/Data Science**
+
+Looking to start in **India (late 2025/early 2026)** or **Dubai (from February 2026)**. My mission is to bring **data-driven insights** to complex financial problems and make meaningful business impact.
+
+---
+
+## 📫 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranayprasanth/)
+📧 Email: pranayprasanth2002@email.com  
+
+
+
+
