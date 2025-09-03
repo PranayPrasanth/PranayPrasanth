@@ -48,12 +48,24 @@ You can find all my Google Advanced Data Analytics projects in this repository:
 
 ---
 
-# 100 Days of Code – Data Science Projects
+---
 
-- ✅ Completed daily projects focused on **data cleaning**, **data analysis**, and **visualization** using Python.  
-- 📂 Organized for easy exploration and learning.
+## 📚 Learning Journey  
 
-[Explore the projects here](https://github.com/PranayPrasanth/100DaysOfCode-DataScience-Projects)
+Alongside my main projects, I maintain structured **learning portfolios** to document hands-on practice with different tools, techniques, and real-world datasets. These portfolios include both guided course projects and self-driven explorations.  
+
+### 📊 Power BI Learning Portfolio  
+A portfolio of dashboards and reports created in **Power BI**, covering chart types, data storytelling, and interactive navigation design.  
+📂 [View Power BI Portfolio](https://github.com/PranayPrasanth/Power_BI_Learning_Portfolio)  
+
+### 🧮 Data Analytics Learning Portfolio (Python)  
+A collection of **Python notebooks* that focus on:  
+- 🧹 **Data Cleaning & Wrangling** (Pandas, NumPy)  
+- 📊 **Exploratory Data Analysis (EDA)** with Matplotlib & Seaborn  
+- 📈 **Data Visualization** and storytelling with insights  
+- 📉 **Linear Regression & Predictive Modelling** using scikit-learn
+- 📂 [View Data Analytics Portfolio]((https://github.com/PranayPrasanth/Data_Analytics_Projects))  
+  
 
 ---
 
