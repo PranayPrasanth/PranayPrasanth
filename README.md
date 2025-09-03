@@ -59,12 +59,12 @@ A portfolio of dashboards and reports created in **Power BI**, covering chart ty
 📂 [View Power BI Portfolio](https://github.com/PranayPrasanth/Power_BI_Learning_Portfolio)  
 
 ### 🧮 Data Analytics Learning Portfolio (Python)  
-A collection of **Python notebooks* that focus on:  
+A collection of **Python notebooks** that focus on:  
 - 🧹 **Data Cleaning & Wrangling** (Pandas, NumPy)  
 - 📊 **Exploratory Data Analysis (EDA)** with Matplotlib & Seaborn  
 - 📈 **Data Visualization** and storytelling with insights  
 - 📉 **Linear Regression & Predictive Modelling** using scikit-learn
-- 📂 [View Data Analytics Portfolio]((https://github.com/PranayPrasanth/Data_Analytics_Projects))  
+- 📂 [View Data Analytics Portfolio](https://github.com/PranayPrasanth/Data_Analytics_Projects).  
   
 
 ---
