@@ -41,18 +41,18 @@ Completed real-world tasks in quantitative research including asset pricing, cre
 
 ---
 
-## Google Advanced Data Analytics Projects
-
-You can find all my Google Advanced Data Analytics projects in this repository:  
-👉 [Google ADA Projects](https://github.com/PranayPrasanth/Google_Analytics_Projects)
-
----
 
 ---
 
 ## 📚 Learning Journey  
 
 Alongside my main projects, I maintain structured **learning portfolios** to document hands-on practice with different tools, techniques, and real-world datasets. These portfolios include both guided course projects and self-driven explorations.  
+
+## Google Advanced Data Analytics Projects
+
+You can find all my Google Advanced Data Analytics projects in this repository:  
+👉 [Google ADA Projects](https://github.com/PranayPrasanth/Google_Analytics_Projects)
+
 
 ### 📊 Power BI Learning Portfolio  
 A portfolio of dashboards and reports created in **Power BI**, covering chart types, data storytelling, and interactive navigation design.  
