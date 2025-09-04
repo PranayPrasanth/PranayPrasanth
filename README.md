@@ -31,12 +31,14 @@ I recently completed the **Google Advanced Data Analytics Certificate**, where I
 **Tools:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Jupyter Notebook  
 Built a predictive model to identify employees likely to leave using classification algorithms.  
 ✅ Visualized trends in attrition by department, satisfaction level, and workload.  
+
 📂 [View Project](https://github.com/PranayPrasanth/HR-Attrition-Prediction)
 
 ### 📈 JPMorgan Chase Quantitative Research Simulation  
 **Tools:** Python, Jupyter Notebook, NumPy, Data Analysis  
 Completed real-world tasks in quantitative research including asset pricing, credit risk modelling, and statistical analysis.  
 ✅ Built pricing models and evaluated credit metrics using FICO scores and simulated market data.  
+
 📂 [View Project](https://github.com/PranayPrasanth/JPMorgan_QR_Sim)
 
 ---
@@ -48,11 +50,13 @@ Alongside my main projects, I maintain structured **learning portfolios** to doc
 ## Google Advanced Data Analytics Projects
 
 You can find all my Google Advanced Data Analytics projects in this repository:  
+
 📂 [View Google ADA Projects](https://github.com/PranayPrasanth/Google_Analytics_Projects)
 
 
 ### 📊 Power BI Learning Portfolio  
 A portfolio of dashboards and reports created in **Power BI**, covering chart types, data storytelling, and interactive navigation design.  
+
 📂 [View Power BI Portfolio](https://github.com/PranayPrasanth/Power_BI_Learning_Portfolio)  
 
 ### 🧮 Data Analytics Learning Portfolio (Python)  
@@ -60,9 +64,9 @@ A collection of **Python notebooks** that focus on:
 - 🧹 **Data Cleaning & Wrangling** (Pandas, NumPy)  
 - 📊 **Exploratory Data Analysis (EDA)** with Matplotlib & Seaborn  
 - 📈 **Data Visualization** and storytelling with insights  
-- 📉 **Linear Regression & Predictive Modelling** using scikit-learn
-📂 [View Data Analytics Portfolio](https://github.com/PranayPrasanth/Data_Analytics_Projects).  
-  
+- 📉 **Linear Regression & Predictive Modelling** using scikit-learn  
+
+📂 [View Data Analytics Portfolio](https://github.com/PranayPrasanth/Data_Analytics_Projects)
 
 ---
 
