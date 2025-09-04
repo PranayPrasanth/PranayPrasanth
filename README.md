@@ -48,7 +48,7 @@ Alongside my main projects, I maintain structured **learning portfolios** to doc
 ## Google Advanced Data Analytics Projects
 
 You can find all my Google Advanced Data Analytics projects in this repository:  
-👉 [Google ADA Projects](https://github.com/PranayPrasanth/Google_Analytics_Projects)
+📂 [View Google ADA Projects](https://github.com/PranayPrasanth/Google_Analytics_Projects)
 
 
 ### 📊 Power BI Learning Portfolio  
@@ -61,7 +61,7 @@ A collection of **Python notebooks** that focus on:
 - 📊 **Exploratory Data Analysis (EDA)** with Matplotlib & Seaborn  
 - 📈 **Data Visualization** and storytelling with insights  
 - 📉 **Linear Regression & Predictive Modelling** using scikit-learn
-- 📂 [View Data Analytics Portfolio](https://github.com/PranayPrasanth/Data_Analytics_Projects).  
+ 📂 [View Data Analytics Portfolio](https://github.com/PranayPrasanth/Data_Analytics_Projects).  
   
 
 ---
