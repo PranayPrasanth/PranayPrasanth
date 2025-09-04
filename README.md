@@ -61,8 +61,7 @@ A collection of **Python notebooks** that focus on:
 - 📊 **Exploratory Data Analysis (EDA)** with Matplotlib & Seaborn  
 - 📈 **Data Visualization** and storytelling with insights  
 - 📉 **Linear Regression & Predictive Modelling** using scikit-learn
-  
- 📂 [View Data Analytics Portfolio](https://github.com/PranayPrasanth/Data_Analytics_Projects).  
+📂 [View Data Analytics Portfolio](https://github.com/PranayPrasanth/Data_Analytics_Projects).  
   
 
 ---
