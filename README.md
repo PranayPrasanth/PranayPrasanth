@@ -41,9 +41,6 @@ Completed real-world tasks in quantitative research including asset pricing, cre
 
 ---
 
-
----
-
 ## 📚 Learning Journey  
 
 Alongside my main projects, I maintain structured **learning portfolios** to document hands-on practice with different tools, techniques, and real-world datasets. These portfolios include both guided course projects and self-driven explorations.  
