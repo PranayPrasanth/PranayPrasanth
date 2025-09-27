@@ -1,114 +1,103 @@
-# 👋 Hello! I'm Pranay Prasanth
+# 👋 Hello! I'm Pranay Prasanth  
 
 🎓 Master’s in Business Analysis and Finance  
 ✅ Google Advanced Data Analytics Certified  
-📍 Based in the UK 
+📍 Based in India 
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me  
+I'm a detail-oriented and results-driven graduate student with a passion for data analytics, finance, and technology. My journey blends technical skills in Python, SQL, and machine learning with a deep understanding of financial concepts.  
 
-I'm a detail-oriented and results-driven graduate student with a passion for **data analytics, finance**, and **technology**. My journey blends technical skills in Python, SQL, and machine learning with a deep understanding of financial concepts.
-
-I recently completed the **Google Advanced Data Analytics Certificate**, where I tackled projects involving regression models, hypothesis testing, predictive analytics, and data storytelling using Python and Tableau.
-
----
-
-## 🧠 Core Skills
-
-- **Programming & Data Analysis:** Python (Pandas, NumPy, scikit-learn, Seaborn, Matplotlib, XGBoost), SQL, Excel  
-- **Data Visualization & BI Tools:** Tableau, Power BI, Matplotlib, Seaborn  
-- **Statistical & Analytical Techniques:** Linear & Logistic Regression, Forecasting, Time Series Analysis (ARIMA, GARCH), Hypothesis Testing, Data Cleaning & Wrangling  
-- **Database & Querying:** SQL (MySQL, SQLite), Data Extraction & Transformation  
-- **Development Tools & Environments:** Jupyter Notebook, Google Colab, VSCode, PyCharm, Git/GitHub  
-- **Soft Skills:** Communication, Analytical Thinking, Problem Solving, Team Collaboration, Project Management  
+I recently completed the Google Advanced Data Analytics Certificate, where I tackled projects involving regression models, hypothesis testing, predictive analytics, and data storytelling using Python and Tableau.  
 
 ---
 
-## 🧪 Notable Projects
+## 🧠 Core Skills  
 
-## 🏘️ Market Strategy and Revenue Driver Quantification (NEW!)
+**Programming & Data Analysis:** Python (Pandas, NumPy, scikit-learn, Seaborn, Matplotlib, XGBoost), SQL, Excel  
+**Data Visualization & BI Tools:** Tableau, Power BI, Matplotlib, Seaborn  
+**Statistical & Analytical Techniques:** Linear & Logistic Regression, Forecasting, Time Series Analysis (ARIMA, GARCH), Hypothesis Testing, Data Cleaning & Wrangling  
+**Database & Querying:** SQL (MySQL, SQLite), Data Extraction & Transformation  
+**Development Tools & Environments:** Jupyter Notebook, Google Colab, VSCode, PyCharm, Git/GitHub  
+**Soft Skills:** Communication, Analytical Thinking, Problem Solving, Team Collaboration, Project Management  
 
+---
+
+## 🧪 Notable Projects  
+
+### 🏘️ Airbnb Data-Driven Pricing and Revenue Strategy  
 **Tools:** Power BI, Statistical Modeling, Python, Financial Analysis  
 
-- Executed comprehensive market analysis across **57,000+ London listings** to quantify financial drivers and competitive advantage.  
-- ✅ Statistically validated the **Superhost Advantage (p < 0.0001):**  
-  - Superhosts realize **125% higher average revenue**  
-  - Superhosts command a **9.1% pricing premium**  
-- ✅ Designed a **Power BI dashboard** to advise on:  
-  - Optimal guest capacity  
-  - High-yield geographic "sweet spots" for maximized ROI  
+- **Identified Dual Driver Strategy:** Conducted extensive market analysis across 57,000+ London listings, determining that property characteristics drive listing price, while customer experience metrics are the dominant factors for revenue maximization.  
+- **Quantified Superhost Advantage:** Statistically validated (p < 0.0001) that Superhosts command a 9.1% pricing premium and realize 125% higher average revenue, driven by superior amenities and 2x the guest engagement.  
+- **Actionable Business Intelligence:** Designed a Power BI dashboard advising stakeholders on optimal guest capacity (high-demand 1–4 guests) and identifying high-yield geographic "sweet spots" for maximized ROI.  
 
-📂 [View Project](https://github.com/PranayPrasanth/Airbnb-Data-Analysis)  
- 
+📂 [View Project Link](#)  
+*(Replace `#` with the actual repository link)*  
 
-
-
-
-### 🔍 HR Attrition Prediction  
-**Tools:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Jupyter Notebook  
-Built a predictive model to identify employees likely to leave using classification algorithms.  
-✅ Visualized trends in attrition by department, satisfaction level, and workload.  
-
-📂 [View Project](https://github.com/PranayPrasanth/HR-Attrition-Prediction)
+---
 
 ### 📈 JPMorgan Chase Quantitative Research Simulation  
-**Tools:** Python, Jupyter Notebook, NumPy, Data Analysis  
-Completed real-world tasks in quantitative research including asset pricing, credit risk modelling, and statistical analysis.  
-✅ Built pricing models and evaluated credit metrics using FICO scores and simulated market data.  
+**Tools:** Python, Jupyter Notebook, NumPy, ARIMA, K-Means, Logistic Regression  
 
-📂 [View Project](https://github.com/PranayPrasanth/JPMorgan_QR_Sim)
+- Built quantitative models for asset pricing (ARIMA for natural gas forecasting, valuing gas storage contracts for up to 200 units) to identify trading opportunities and inform strategic investment decisions.  
+- Developed credit risk models (Logistic Regression for default prediction, FICO bucketing via K-Means for 10 risk buckets) enabling data-driven commercial decisions and financial exposure mitigation.  
+
+📂 [View Project](#)  
+
+---
+
+### 🔍 HR Attrition Prediction  
+**Tools:** Python, Pandas, NumPy, scikit-learn, Random Forest, Jupyter Notebook  
+
+- Developed and compared Logistic Regression and Random Forest models for employee attrition prediction (~15,000 records), with Random Forest achieving a superior AUC of 98%.  
+- Conducted in-depth EDA and identified critical attrition drivers (satisfaction, tenure, projects) to inform targeted retention strategies. These strategies could hypothetically reduce annual churn by 15–20%, translating to an estimated annual cost savings of $120K+ in recruitment and training.  
+
+📂 [View Project](#)  
 
 ---
 
 ## 📚 Learning Journey  
 
-Alongside my main projects, I maintain structured **learning portfolios** to document hands-on practice with different tools, techniques, and real-world datasets. These portfolios include both guided course projects and self-driven explorations.  
+Alongside my main projects, I maintain structured learning portfolios to document hands-on practice with different tools, techniques, and real-world datasets.  
 
-## Google Advanced Data Analytics Projects
-
+### Google Advanced Data Analytics Projects  
 You can find all my Google Advanced Data Analytics projects in this repository:  
+📂 [View Google ADA Projects](#)  
 
-📂 [View Google ADA Projects](https://github.com/PranayPrasanth/Google_Analytics_Projects)
+### Power BI Learning Portfolio  
+A portfolio of dashboards and reports created in Power BI, covering chart types, data storytelling, and interactive navigation design.  
+📂 [View Power BI Portfolio](#)  
 
+### Data Analytics Learning Portfolio (Python)  
+A collection of Python notebooks that focus on:  
+- Data Cleaning & Wrangling (Pandas, NumPy)  
+- Exploratory Data Analysis (EDA) with Matplotlib & Seaborn  
+- Data Visualization and storytelling with insights  
+- Linear Regression & Predictive Modelling using scikit-learn  
 
-### 📊 Power BI Learning Portfolio  
-A portfolio of dashboards and reports created in **Power BI**, covering chart types, data storytelling, and interactive navigation design.  
-
-📂 [View Power BI Portfolio](https://github.com/PranayPrasanth/Power_BI_Learning_Portfolio)  
-
-### 🧮 Data Analytics Learning Portfolio (Python)  
-A collection of **Python notebooks** that focus on:  
-- 🧹 **Data Cleaning & Wrangling** (Pandas, NumPy)  
-- 📊 **Exploratory Data Analysis (EDA)** with Matplotlib & Seaborn  
-- 📈 **Data Visualization** and storytelling with insights  
-- 📉 **Linear Regression & Predictive Modelling** using scikit-learn  
-
-📂 [View Data Analytics Portfolio](https://github.com/PranayPrasanth/Data_Analytics_Projects)
+📂 [View Data Analytics Portfolio](#)  
 
 ---
 
-## 🏅 Certifications
-
-- Google Advanced Data Analytics Certificate — [Certificate Link](https://www.coursera.org/account/accomplishments/professional-cert/Y61KHAKGCI7W)  
-- CS50’s Introduction to Programming with Python Certificate — [Certificate Link](https://certificates.cs50.io/7e337df6-e389-404c-875a-aae1aab68caa.pdf?size=letter)  
-- CS50’s Introduction to Databases with SQL Certificate — [Certificate Link](https://certificates.cs50.io/2cc7b683-76f5-4398-bb78-843f624667ab.pdf?size=letter)  
-- JPMorgan Chase Quantitative Research Virtual Experience — [Certificate Link](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Sj7temL583QAYpHXD/bWqaecPDbYAwSDqJy_Sj7temL583QAYpHXD_NLfCuhaKexjXy7xaq_1739396883234_completion_certificate.pdf)  
-- Financial Markets Certificate — [Certificate Link](https://www.coursera.org/account/accomplishments/verify/GBPSNNCGYW7L)
-
----
-
-## 💼 Career Goals
-
-I'm actively seeking full-time or internship roles in:
-
-- 📊 **Data Analytics**  
-- 🧠 **FinTech**  
-- 🏦 **Financial/Data Science**
+## 🏅 Certifications  
+- Google Advanced Data Analytics Certificate — [Certificate Link](#)  
+- CS50’s Introduction to Programming with Python — [Certificate Link](#)  
+- CS50’s Introduction to Databases with SQL — [Certificate Link](#)  
+- JPMorgan Chase Quantitative Research Virtual Experience — [Certificate Link](#)  
+- Financial Markets (Yale) — [Certificate Link](#)  
 
 ---
 
-## 📫 Let's Connect!
+## 💼 Career Goals  
+I'm actively seeking full-time or internship roles in:  
+- Data Analytics  
+- FinTech  
+- Financial/Data Science  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranayprasanth/)  
-📧 [pranayprasanth2002@email.com](mailto:pranayprasanth2002@email.com)
+---
+
+## 📫 Let's Connect  
+📧 Email: pranayprasanth2002@email.com  
+- 💼 LinkedIn: [Pranay Prasanth](#)
