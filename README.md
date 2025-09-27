@@ -27,6 +27,24 @@ I recently completed the **Google Advanced Data Analytics Certificate**, where I
 
 ## 🧪 Notable Projects
 
+## 🏘️ Market Strategy and Revenue Driver Quantification (NEW!)
+
+**Tools:** Power BI, Statistical Modeling, Python, Financial Analysis  
+
+- Executed comprehensive market analysis across **57,000+ London listings** to quantify financial drivers and competitive advantage.  
+- ✅ Statistically validated the **Superhost Advantage (p < 0.0001):**  
+  - Superhosts realize **125% higher average revenue**  
+  - Superhosts command a **9.1% pricing premium**  
+- ✅ Designed a **Power BI dashboard** to advise on:  
+  - Optimal guest capacity  
+  - High-yield geographic "sweet spots" for maximized ROI  
+
+📂 [View Project](https://github.com/PranayPrasanth/Airbnb-Data-Analysis)  
+ 
+
+
+
+
 ### 🔍 HR Attrition Prediction  
 **Tools:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Jupyter Notebook  
 Built a predictive model to identify employees likely to leave using classification algorithms.  
