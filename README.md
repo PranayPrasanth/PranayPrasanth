@@ -34,7 +34,7 @@ I recently completed the Google Advanced Data Analytics Certificate, where I tac
 - **Actionable Business Intelligence:** Designed a Power BI dashboard advising stakeholders on optimal guest capacity (high-demand 1–4 guests) and identifying high-yield geographic "sweet spots" for maximized ROI.  
 
 📂 [View Project Link](#)  
-*(Replace `#` with the actual repository link)*  
+
 
 ---
 
